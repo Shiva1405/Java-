@@ -15,5 +15,6 @@ class sample
         abc ob =new abc();
         ob.show();
         System.out.println(ob.i);
+        
     }
 }
